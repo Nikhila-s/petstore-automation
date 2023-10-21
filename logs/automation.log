@@ -1,0 +1,3 @@
+2023-10-21 13:06:17.368 [main] INFO  api.test.UserTests - Creating user***
+2023-10-21 13:06:22.312 [main] INFO  api.test.UserTests - User is created***
+2023-10-21 13:06:23.401 [main] INFO  api.test.UserTests - Created username is null
